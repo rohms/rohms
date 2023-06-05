@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on making the fullstack LNight project better<br>🌱 I’m currently learning ...more React hooks, Redux and GraphQL :D<br>💬 Ask me about ... what should I be learning next? :)<br>📫 How to reach me: ... via GitHub, https://www.linkedin.com/in/roosa-hamalainen/<br>⚡ Fun fact: ... I know basics of Mandarin Chinese
+🔭 I’m currently working on making the fullstack LNight project better<br>🌱 I’m currently learning ...more React hooks, CypressL :D<br>💬 Ask me about ... what should I be learning next? :)<br>📫 How to reach me: ... via GitHub, https://www.linkedin.com/in/roosa-hamalainen/<br>⚡ Fun fact: ... I know basics of Mandarin Chinese
 
 
 ## 🌐 Socials:
